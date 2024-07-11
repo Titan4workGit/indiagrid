@@ -17,7 +17,7 @@ a:hover {
 font-family: 'Material Icons';
 font-style: normal;
 font-weight: 400;
-src: url('../fonts/Material_Icon.woff2') format('woff2');
+src: url('https://cdn.jsdelivr.net/gh/Titan4workGit/indiagrid@main/TitanMasterPage1.0/fonts/Material_Icon.woff2') format('woff2');
 }
 
 .material-icons {
